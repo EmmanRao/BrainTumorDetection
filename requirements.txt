@@ -1,0 +1,8 @@
+tensorflow==2.8
+keras
+pandas
+numpy
+matplotlib
+opencv-python
+scikit-learn 
+Flask
